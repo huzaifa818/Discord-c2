@@ -145,17 +145,7 @@ Command = ` pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py `
 
 
 
-**In your Discord channel:**
-
-!list – see all online machines (their IDs). (First step)
-
-!select PC1_John – choose which machine to control. (Second step)
-
-Then use !shell whoami, !screenshot, etc. – commands affect the selected machine.
-
-Persistence – run !persist on each machine once. It will survive reboots.
-
-Self destruct – !self_destruct deletes the executable from the target. 
+**In your Discord channel:** 
 
 **Session Management**  
 `!list` – Show all connected implants  
